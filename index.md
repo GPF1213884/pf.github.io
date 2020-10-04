@@ -8,7 +8,7 @@
 <h1> My Life </h1>
 <p>Now,let's wind back the clock to see my short life.</p>
 <p style="width:400px;">
-<img src="1.jpg" width="200" height="200">         
+<img src="1.jpg" align="right "width="200" height="200">         
  Even if it was not allowed,our family still had the second child---me.So I surely have a brother or sister.Brother or sister?The answer will show as you scroll your mouse.
  </p>
 
