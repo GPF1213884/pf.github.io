@@ -16,8 +16,8 @@
 <p>......</p>
 <p></p><br>
 
-<p style="width:600px;">
-<img src="2.jpg" width="200" height="200" align="right" hspace="5" vspace="5">
+<p style="width:500px;">
+<img src="2.jpg" width="150" height="200" align="right" hspace="5" vspace="5">
 As time passed, as many "wisers" said:the older a girl is ,the more beautiful she will be,but boys are quite contrary to that,I am not an exception.But my pupil time may be the most glorious time for 18 years.Yet a hero is silent about his past glories.I don't know why but the truth is that I began to be withdrawn from that time.
 <p>
  
