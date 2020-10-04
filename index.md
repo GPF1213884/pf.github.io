@@ -20,5 +20,5 @@
  
  
  
-<head> My Life </head>
+<h1> My Life </h1>
 <p>Now,let's wind back the clock to see me growing up.
