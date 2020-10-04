@@ -18,4 +18,5 @@
 </div>
 <p>......</p>
 <p></p><br>
-<p>As time passed, as many "wisers" said:the older a girl is ,the more beautiful she will be,but boys are quite contrary to that,I am not an exception.But my pupil time may be the most glorious time for 18 years.Yet a hero is silent about his past glories.I don't know why but the truth is that I began to be withdrawn from that time.<>
+<img src="">
+<p>As time passed, as many "wisers" said:the older a girl is ,the more beautiful she will be,but boys are quite contrary to that,I am not an exception.But my pupil time may be the most glorious time for 18 years.Yet a hero is silent about his past glories.I don't know why but the truth is that I began to be withdrawn from that time.</p>
