@@ -9,7 +9,7 @@
 <p>Now,let's wind back the clock to see my short life.</p>
 
 <p style="width:400px;">
-    <img src="1.jpg" align="left" width="150" height="150" hspace="5" vspace="5" >         
+    <img src="1.jpg" align="left" width="200" height="200" hspace="5" vspace="5" >         
     Even if it was not allowed,our family still had the second child---me.So I surely have a brother or sister.Brother or sister?The answer will show as you scroll your mouse.
 </p>
 
