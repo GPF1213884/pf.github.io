@@ -1,5 +1,7 @@
-<script src="101.js"></script>
+<body>
+<script src="javascript/101.js"></script>
 <h1> Welcome to GPF's Web
+ </body>
 
 <h1>Self Introduction</h1>
 <p>My name is 郭沛枫(Sichuan boy),which was named by my uncle.And it's been 18 years since I came to this lovely world.
