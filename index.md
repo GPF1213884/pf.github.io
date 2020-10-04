@@ -14,7 +14,6 @@
 <p>Now,let's wind back the clock to see me growing up.</p>
 <div>
 <img src="1.jpg" width="200" height="200">
- </div>
- <div>
-          <p>Even if it was not allowed,our family still had the second child---me.</p>
+          <p>Even if it was not allowed,our family still had the second child---me.So I surely have a brother or sister.Brother or sister?The answer will show as you scroll your mouse.</p>
 </div>
+
