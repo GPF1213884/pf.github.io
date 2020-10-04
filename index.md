@@ -1,4 +1,4 @@
-alert（“欢迎来到郭沛枫的网站！”）；
+
 ## Welcome to GPF's Web
 
 
