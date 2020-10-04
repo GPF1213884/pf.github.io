@@ -1,4 +1,4 @@
- <head><style>p {border:1px solid red;}img {float:left; margin:0 5px 5px 0;}</style>
+
  <h1> Welcome to GPF's Web
 
 <h1>Self Introduction</h1>
@@ -13,6 +13,6 @@
 
 <p>Now,let's wind back the clock to see me growing up.</p>
 <div>
-<img src="images/C:\Users\GPF\Desktop\pic\1.jpg/">
+<img src="images/C:/Users/GPF/Desktop/pic/1.jpg/">
           <p>Even if it was not allowed,our family still had the second child---me.</p>
 </div>
