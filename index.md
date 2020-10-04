@@ -13,6 +13,6 @@
 
 <p>Now,let's wind back the clock to see me growing up.</p>
 <div>
-<img src="1.jpg">
+<img src="1.jpg" width="200" height="200">
           <p>Even if it was not allowed,our family still had the second child---me.</p>
 </div>
