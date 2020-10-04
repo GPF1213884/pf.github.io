@@ -10,5 +10,4 @@
 (But my first month to embrace this fascinating and "hear costing" programming/doge//doge/)
 
 <p>As for my hobbies ,I think.....of course studying(haha). For my spcialities,I'm confident because I can dance(Latin)and play the violin.
- However,I'm regretful my not keep dancing and not turning violin to my real strong suit.Honestly,my bow on the violin is just like a knife 
- at a chicken's neck beacuase they will make the same noise.
+ However,I'm regretful my not keeping will make the same noise.
