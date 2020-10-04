@@ -15,6 +15,6 @@
 <div>
 <img src="1.jpg" width="200" height="200">
  </div>
- </div>
+ <div>
           <p>Even if it was not allowed,our family still had the second child---me.</p>
 </div>
