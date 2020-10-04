@@ -13,11 +13,22 @@
 <h1> My Life </h1>
 
 <p>Now,let's wind back the clock to see my short life.</p>
+<heah>
+<style>
+
+     p {border:1px solid red;}
+
+     img {float:left; margin:0 5px 5px 0;}
+
+</style>
+</head>
+<body>
 <div>
 <img src="1.jpg" width="200" height="200">
          
  <p>Even if it was not allowed,our family still had the second child---me.So I surely have a brother or sister.Brother or sister?The answer will show as you scroll your mouse.</p>
 </div>
+</body>
 <p>......</p>
 <p></p><br>
 <div>
