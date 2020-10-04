@@ -2,6 +2,7 @@
  <html lang="zh-cn"> 
  <head> 
  <meta charset="utf-8"/> 
+<head><style>p {border:1px solid red;}img {float:left; margin:0 5px 5px 0;}</style>
 
 ## Welcome to GPF's Web
  
@@ -19,5 +20,5 @@
  
  
  
-<title> My Life </title>
+<head> My Life </head>
 <p>Now,let's wind back the clock to see me growing up.
