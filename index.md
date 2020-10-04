@@ -19,3 +19,6 @@
  
 <h1> My Life </h1>
 <p>Now,let's wind back the clock to see me growing up.
+<div>
+<img src="images/3.jpg/>
+<h1>Even if it was not allowed,our family still had the second child---me.
