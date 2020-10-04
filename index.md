@@ -1,8 +1,9 @@
-## Welcome to GPF's web
+alert（“欢迎来到郭沛枫的网站！”）；
+## Welcome to GPF's Web
 
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
