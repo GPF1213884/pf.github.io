@@ -7,10 +7,11 @@
  However,I'm regretful my not keeping dancing and not turning violin a real speciality(my bow on the violin is just like a knife on a chicken's or a duck's neck for they both make the same noise.)</p>
 <h1> My Life </h1>
 <p>Now,let's wind back the clock to see my short life.</p>
-<div class="1">
+<p style="width:400px;">
 <img src="1.jpg" width="200" height="200">         
- <p>Even if it was not allowed,our family still had the second child---me.So I surely have a brother or sister.Brother or sister?The answer will show as you scroll your mouse.</p>
-</div>
+ Even if it was not allowed,our family still had the second child---me.So I surely have a brother or sister.Brother or sister?The answer will show as you scroll your mouse.
+ </p>
+
 <p>......</p>
 <p></p><br>
 
