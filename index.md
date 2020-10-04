@@ -14,9 +14,7 @@
 
 <p>Now,let's wind back the clock to see my short life.</p>
 <div>
-style="float:left;"<img src="1.jpg" width="200" height="200">
-         
- <p>Even if it was not allowed,our family still had the second child---me.So I surely have a brother or sister.Brother or sister?The answer will show as you scroll your mouse.</p>
+style="float:left;"<img src="1.jpg" width="200" height="200">Even if it was not allowed,our family still had the second child---me.So I surely have a brother or sister.Brother or sister?The answer will show as you scroll your mouse.</p>
 </div>
 <p>......</p>
 <p></p><br>
