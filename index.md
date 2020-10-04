@@ -1,4 +1,4 @@
-<link href=“css.txt” rel=“stylesheet” type=“text/css”/>
+
 <h1> Welcome to GPF's Web
 <h1>Self Introduction</h1>
 <p>My name is 郭沛枫(Sichuan boy),which was named by my uncle.And it's been 18 years since I came to this lovely world.
