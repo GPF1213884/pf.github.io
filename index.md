@@ -1,4 +1,3 @@
-<head><style>p {border:1px solid red;}img {float:left; margin:0 5px 5px 0;}</style>
 
 ## Welcome to GPF's Web
  
