@@ -12,6 +12,6 @@
 
 <p>Now,let's wind back the clock to see me growing up.</p>
 <div>
-<img src="images/3.jpg/>
-          <h1>Even if it was not allowed,our family still had the second child---me.</h1>
+<img src="images/C:\Users\GPF\Desktop\pic\1/">
+          <p>Even if it was not allowed,our family still had the second child---me.</p>
 </div>
