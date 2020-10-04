@@ -8,7 +8,7 @@
 <h1> My Life </h1>
 <p>Now,let's wind back the clock to see my short life.</p>
 
-<p style="width:600px;">
+<p style="width:500px;">
     <img src="1.jpg" align="left" width="200" height="200" hspace="5" vspace="5" >         
     Even if it was not allowed,our family still had the second child---me.So I surely have a brother or sister.Brother or sister?The answer will show as you scroll your mouse.
 </p>
@@ -24,7 +24,7 @@ As time passed, as many "wisers" said:the older a girl is ,the more beautiful sh
 <p>......</p>
 <p></p><br>
 
-<p style="width:600px;">
+<p style="width:500px;">
 <img src="3.jpg" width="200" height="200" align="left" hspace="5" vspace="5">
 The next page of my life comes to be "dark".When I got to middle school,I'v done nearly all the things bad students do,such as eating snacks on EVERY Chinese class and copying(real copy with a printer)others' homework.What my teacher expected was that I just can get into high school nor into a nice school and a best class.
 </p>
@@ -32,4 +32,6 @@ The next page of my life comes to be "dark".When I got to middle school,I'v done
 <p>......</p>
 <p></p><br>
 
-
+<p style="width:500px;">
+<img src="5.jpg" width="200" height="200" align="left" hspace="5" vspace="5">
+ 
