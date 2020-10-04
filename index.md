@@ -17,7 +17,7 @@
 <p></p><br>
 
 <p style="width:600px;">
-<img src="2.jpg" width="200" height="200">
+<img src="2.jpg" width="200" height="200" align="right" hspace="5" vspace="5">
 As time passed, as many "wisers" said:the older a girl is ,the more beautiful she will be,but boys are quite contrary to that,I am not an exception.But my pupil time may be the most glorious time for 18 years.Yet a hero is silent about his past glories.I don't know why but the truth is that I began to be withdrawn from that time.
 <p>
  
@@ -25,7 +25,7 @@ As time passed, as many "wisers" said:the older a girl is ,the more beautiful sh
 <p></p><br>
 
 <p style="width:600px;">
-<img src="3.jpg" width="200" height="200">
+<img src="3.jpg" width="200" height="200" align="left" hspace="5" vspace="5">
 <The next page of my life comes to be "dark".When I got to middle school,I'v done nearly all the things bad students do,such as eating snacks on EVERY Chinese class and copying(real copy with a printer)others' homework.What my teacher expected was that I just can get into high school nor into a nice school and a best class.
 </p>
 
