@@ -1,6 +1,6 @@
 <h1> Welcome to GPF's Web
 <script src="javascript/101.js"></script>
- <audio controls="controls" height="100" width="100">
+ <audio autoplay="autoplay" height="100" width="100">
 
   <source src="Josh Vietti - Where Is the Love.mp3" type="audio/mp3" />
 
