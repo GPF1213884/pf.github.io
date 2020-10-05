@@ -1,11 +1,12 @@
 <h1> Welcome to GPF's Web
 <script src="javascript/101.js"></script>
- <audio autoplay="autoplay">
+ <audio controls="controls" height="100" width="100">
 
-  <source src="" type=Josh Vietti - Where Is the Love.mp3"audio/mp3" />
+  <source src="" type="audio/mp3" />
 
+  <source src="小果 - 蒲公英的梦想.ogg" type="audio/ogg" />
 
-  <embed height="100" width="100" src="Josh Vietti - Where Is the Love.mp3" />
+  <embed height="100" width="100" src="小果 - 蒲公英的梦想.mp3" />
 
 </audio>
 <h1>Self Introduction</h1>
