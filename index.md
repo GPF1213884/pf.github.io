@@ -45,6 +45,6 @@ The next page of my life comes to be "dark".When I got to middle school,I'v done
 <img src="5.jpg" width="200" height="200" align="right" hspace="5" vspace="5">
 ( Yes!I have pretty sister.People always say we are twins when they first see us together.)
  Somehow I have a relatively good score in high school.Maybe fate brings me to PKU .(HHHa)Once you live in PKU for days,everything is magnetic.Have a glass of Weiming Shui.Have a glimpse of mandarin ducks....I wish them forever.
-<img src="6.jpg" width=400 height="200" align="none">
+<img src="6.jpg" width=400 height="200" align="middle">
  <h1>THE END</h1>
  
